@@ -3,7 +3,7 @@
     {
       "name": "fizzbuzz autograding",
       "setup": "pip install pytest",
-      "run": "pytest test_fizz.py",
+      "run": "pytest tests.py",
       "input": "",
       "output": "",
       "comparison": "included",
